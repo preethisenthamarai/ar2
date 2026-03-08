@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+a-scene {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
